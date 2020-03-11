@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
                 rollDice(); // The function it leads to
             }
         });
-
     }
 
     public void rollDice(){
